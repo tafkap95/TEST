@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1555489323 source:c:\development\cb\win32_test\main.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<commctrl.h>
+	"resource.h"
+	"main.h"
+	"functions.h"
+	"common.h"
+
+1555434544 c:\development\cb\win32_test\resource.h
+
+1554822249 source:c:\development\cb\win32_test\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1554998184 c:\development\cb\win32_test\main.h
+
+1555419971 c:\development\cb\win32_test\functions.h
+	<string>
+	<vector>
+
+1555434484 source:c:\development\cb\win32_test\functions.cpp
+	<dirent.h>
+	<stdio.h>
+	<cstring>
+	<string>
+	<iostream>
+	<vector>
+	<dirent.h>
+	"wtypes.h"
+	<commctrl.h>
+	"resource.h"
+	"functions.h"
+	"main.h"
+	"common.h"
+
+1554999327 source:c:\development\cb\win32_test\constants.cpp
+
+1555489287 c:\development\cb\win32_test\common.h
+

@@ -1,0 +1,20 @@
+#define IDR_MYMENU 101
+#define IDI_MYICON 201
+
+#define ID_FILE_EXIT 9001
+#define ID_OPTIONS   9002
+
+#define ID_DIAL_PREF 9500
+
+#define ID_HELP_CONTENT 3000
+#define ID_HELP_ABOUT 3001
+
+#define IDD_ABOUT 4000
+
+#define ID_BTN_START 5000
+#define ID_BTN_STOP 5001
+#define ID_BTN_EXIT 5002
+
+#define ID_MYTOOLBAR 5010
+
+#define ID_LISTVIEW 2000
